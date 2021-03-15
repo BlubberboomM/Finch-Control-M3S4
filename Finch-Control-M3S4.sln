@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finch-Control-M3S4", "Finch-Control-M3S4\Finch-Control-M3S4.csproj", "{1AFC7DA6-2D1C-4B78-B449-A55FF28DDDDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AFC7DA6-2D1C-4B78-B449-A55FF28DDDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFC7DA6-2D1C-4B78-B449-A55FF28DDDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFC7DA6-2D1C-4B78-B449-A55FF28DDDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFC7DA6-2D1C-4B78-B449-A55FF28DDDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {174FD9A5-1734-469F-8CD3-2D8CF0D7420F}
+	EndGlobalSection
+EndGlobal
